@@ -36,7 +36,7 @@
             padding: 20px;  
             border: 1px solid #ccc;  
             border-radius: 5px;  
-            max-width: 400px;  
+            max-width: 1600px;  
         }  
         label {  
             display: block;  
