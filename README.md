@@ -29,9 +29,4 @@
     <p>Cầu Vàng là tên một cây cầu bộ hành dài khoảng 150 m (khoảng 490 ft) tại khu nghỉ dưỡng Bà Nà, Đà Nẵng, Việt Nam.[1][2] Nằm ở độ cao khoảng 1.414 m (so với mực nước biển) trên núi Bà Nà,[3][4] cầu nối liền trạm cáp treo với các khu vườn khác của khu nghỉ dưỡng. Ở giữa cầu có hai bàn tay lớn được thi công bằng lắp ráp khung xương và đắp vữa vào bên ngoài để tạo điểm nhấn cho cây cầu.</p>
 
     
-    <ul>
-        <li><strong>Bold Text:</strong> <strong>This text is bold.</strong></li>
-        <li><em>Italic Text:</em> <em>This text is italicized.</em></li>
-        <li><mark>Highlighted Text:</mark> <span class="highlight">This text is highlighted.</span></li>
-        <li><code>Code Snippet:</code> <code>&lt;h1&gt;This is a heading&lt;/h1&gt;</code></li>
-    </ul>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/v9w7q0lCRds?si=BJtZ7lqbJ3dmDVO5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
